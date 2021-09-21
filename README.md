@@ -1,5 +1,7 @@
 # Mi Card
 
+![erkripa](https://user-images.githubusercontent.com/69295859/134220119-1468af3e-0782-4b6e-8763-9d5ea97542dd.png)
+
 ## Our Goal
 
 Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
